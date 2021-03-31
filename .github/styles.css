@@ -1,0 +1,11 @@
+.topnav {
+    float: right;
+   width: 200px;
+}
+
+googleLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
